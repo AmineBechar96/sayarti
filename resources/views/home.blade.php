@@ -156,7 +156,7 @@
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-12">
-                            <img src="{{URL::asset('app-assets/images/svg/car.svg')}}" alt="" srcset="" style="
+                            <img src="../../../app-assets/images/svg/car.svg" alt="" srcset="" style="
                                 width:99%">
                         </div>
                     </div>
