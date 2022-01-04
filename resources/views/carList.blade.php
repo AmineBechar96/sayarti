@@ -40,10 +40,10 @@
                             </div>
                             <div class="modal-body">
                                 <div class="row">
-                                    <div class="col-6">
+                                    <div class="col-lg-6 col-sm-12">
                                         <img src="../../../app-assets/images/features/feat5.png" alt=""
                                             class="img-fluid" alt="" srcset=""></div>
-                                    <div class="col-6">
+                                    <div class="col-lg-6 col-sm-12">
                                         <div class="table-responsive">
 
                                             <table class="table table mt-3">
