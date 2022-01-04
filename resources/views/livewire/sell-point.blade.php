@@ -13,7 +13,7 @@
                                             class="feather icon-menu"></i></span>
                                 </button>
                                 <div class="search-results">
-                                    {{$total}} results found
+                                    {{$total}} Résultats Trouvés
                                 </div>
                             </div>
                             <div class="view-options">
@@ -197,7 +197,7 @@
 
                             <div class="wishlistt">
                                 <i class="fa fa-heart-o"></i>
-                                <span>J'adors</span>
+                                <span>J'ADORE</span>
                             </div>
 
                             <div class="cart">
@@ -294,7 +294,7 @@
                                             <span class="vs-radio--border"></span>
                                             <span class="vs-radio--circle"></span>
                                         </span>
-                                        <span class="ml-50">Top rated</span>
+                                        <span class="ml-50">Top Rated</span>
                                     </span>
 
                                 <li>
@@ -304,7 +304,7 @@
                                             <span class="vs-radio--border"></span>
                                             <span class="vs-radio--circle"></span>
                                         </span>
-                                        <span class="ml-50"> Plus de reviews</span>
+                                        <span class="ml-50"> Plus de Reviews</span>
                                     </span>
                                 </li>
                                 <li>
@@ -315,7 +315,7 @@
                                             <span class="vs-radio--border"></span>
                                             <span class="vs-radio--circle"></span>
                                         </span>
-                                        <span class="ml-50">Marque Specifiée</span>
+                                        <span class="ml-50">Marque Spécifiée</span>
                                     </span>
                                 </li>
 
@@ -462,6 +462,8 @@
                                     </li>
                                     <li class="ratings-list-item"><i class="feather icon-star text-light"></i>
                                     </li>
+                                    
+                                    
                                     <li class="ratings-list-item"><i class="feather icon-star text-light"></i>
                                     </li>
                                     <li class="ratings-list-item"><i class="feather icon-star text-light"></i>
