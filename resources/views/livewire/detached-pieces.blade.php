@@ -12,7 +12,7 @@
                                             class="feather icon-menu"></i></span>
                                 </button>
                                 <div class="search-results">
-                                    {{$total}} results found
+                                    {{$total}} Résultats Trouvés
                                 </div>
                             </div>
                             <div class="view-options">
@@ -185,7 +185,7 @@
 
                             <div class="wishlistt">
                                 <i class="fa fa-heart-o"></i>
-                                <span>J'adors</span>
+                                <span>J'adore</span>
                             </div>
 
                             <div class="cart">
@@ -287,7 +287,7 @@
                                             <span class="vs-radio--border"></span>
                                             <span class="vs-radio--circle"></span>
                                         </span>
-                                        <span class="ml-50">Top rated</span>
+                                        <span class="ml-50">Top Rated</span>
                                     </span>
 
                                 <li>
