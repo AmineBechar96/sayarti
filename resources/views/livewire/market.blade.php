@@ -11,7 +11,7 @@
                         <fieldset class="form-group position-relative has-icon-left mx-1 my-0 w-100">
                             <input type="text" class="form-control round" name="searchPosition"
                                 wire:click="searchagency()" wire:model="search"
-                                placeholder="Rechercher une Addresse...">
+                                placeholder="Rechercher une Adresse...">
                             <div class="form-control-position">
                                 <i class="feather icon-search"></i>
                             </div>
