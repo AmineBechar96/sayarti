@@ -491,8 +491,8 @@
                         <hr>
                         <!-- Clear Filters Starts -->
                         <div id="clear-filters">
-                            <button class="btn btn-block btn-primary" wire:click="clearFilters()">CLEAR ALL
-                                FILTERS</button>
+                            <button class="btn btn-block btn-primary" wire:click="clearFilters()">SUPPRIMER TOUT
+                                LES FILTRES</button>
                         </div>
                         <!-- Clear Filters Ends -->
 
